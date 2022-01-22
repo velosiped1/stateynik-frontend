@@ -1,0 +1,52 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+div.contentbox {
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 40px;
+    background-color: #F5F5F5;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1px;
+    padding-bottom: 10px;
+}
+
+.contentheader {
+    font-size: 36px;
+}
+
+.contentrating-good {
+    color: green;
+    display: inline;
+    float: right;
+    font-size: 14px;
+}
+
+.contentrating-bad {
+    color: red;
+    display: inline;
+    float: right;
+    font-size: 14px;
+}
+
+.contenttext {
+    font-size: : 18px;
+}
+
+
+div.advbox {
+    margin-left: 18%;
+    margin-right: 18%;
+    margin-top: 40px;
+    background-color: #DCDCDC;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 10px;
+    padding-bottom: 7px;
+}
+
+.advtext {
+    font-size: 18px;
+}
